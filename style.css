@@ -1,0 +1,24 @@
+#k{
+    margin-top: 200px;
+    color: red;
+
+}
+#e{
+    color: violet;
+    background: black;
+}
+body{
+    background: linear-gradient(90deg,yellow,green,yellow);
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.Z6XVgP1jFSpzljNlappEoAHaEo&pid=Api&P=0&h=180);
+}
+#e:hover{
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    color: green;
+    background: yellow;
+}
+img{
+    border-radius: 15px;
+    background-color: azure;
+}
